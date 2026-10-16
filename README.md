@@ -1,4 +1,4 @@
-# Chessbook Clone — Android
+# Chessbook Clone — Androidmarkdown
 
 Clon de Chessbook con repetición espaciada SM-2, gestión de PGN y tablero interactivo.
 Construido con Kotlin + Jetpack Compose + Room.
